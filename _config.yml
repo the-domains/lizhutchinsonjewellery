@@ -1,0 +1,28 @@
+name: lizhutchinsonjewellery
+favicon: null
+layout_spectrum: 0.0496851522475481
+typography_spectrum: 0.8122873506508768
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5370356598868966
+  lightness: 0.9299168649595231
+  saturation: 0.5401093650143594
+  rhythmicContrast: 0.26060450193472207
+purpose: []
