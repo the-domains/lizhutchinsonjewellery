@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Liz Hutchinson Jewellery
-datePublished: '2016-03-18T11:42:45.952Z'
-dateModified: '2016-03-18T11:42:39.877Z'
+datePublished: '2016-03-18T15:19:50.401Z'
+dateModified: '2016-03-18T15:19:48.835Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-18-liz-hutchinson-jewellery.md
@@ -46,3 +46,5 @@ Utilising ancient Oriental methods that have been used for centuries, her
 work is a modern and minimal fusion of silver, black patinas and 24 carat gold 
 to create organic highly wearable jewellery, which has been hand crafted with 
 imagination, heart and soul.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a42dd0b-83ba-4f57-81b8-44eca441b59b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dc6b649-419a-423f-904e-b5a40cbc05c2.jpg)
