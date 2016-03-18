@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: Liz Hutchinson Jewellery
-datePublished: '2016-03-18T11:39:39.686Z'
-dateModified: '2016-03-18T11:38:39.803Z'
+datePublished: '2016-03-18T11:42:45.952Z'
+dateModified: '2016-03-18T11:42:39.877Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-18-liz-hutchinson-jewellery.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-liz-hutchinson-jewellery.md
-published: true
 url: liz-hutchinson-jewellery/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/631b0b1c-af0e-4cf6-97b3-4cc60d47abfb.jpg)
+
 Liz Hutchinson Jewellery
 
 'Jewellery with an ancient aesthetic and a raw beauty' 
