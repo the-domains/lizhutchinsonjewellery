@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Minimal Contemporary Jewellery, Handmade in Hebden Bridge'
-datePublished: '2016-04-27T10:35:01.629Z'
-dateModified: '2016-04-27T10:34:47.896Z'
+datePublished: '2016-04-27T10:47:39.388Z'
+dateModified: '2016-04-27T10:44:46.262Z'
 title: Liz Hutchinson
 author: []
 sourcePath: _posts/2016-04-27-liz-hutchinson.md
@@ -17,9 +17,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: liz-hutchinson/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Liz Hutchinson
