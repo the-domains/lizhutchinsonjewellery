@@ -1,13 +1,12 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://folksy.com/shops/LizHutchinson'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
-description: 'Liz is inspired by the Japanese aesthetic sensibility of Wabi Sabi, finding beauty in imperfections, rustic simplicity and irregularity. Her jewellery celebrates subtle processes like weathering and ageing which give her pieces a simplicity and ‘rawness,’ allowing the surface textures, form and tones to make an elegant statement. '
-datePublished: '2016-04-27T10:53:42.323Z'
-dateModified: '2016-04-27T10:50:27.266Z'
+description: 'Finding beauty in imperfections, rustic simplicity and irregularity. Her jewellery celebrates subtle processes like weathering and ageing which give her pieces a simplicity and ‘rawness,’ allowing the surface textures, form and tones to make an elegant statement. '
+datePublished: '2016-04-27T15:13:22.781Z'
+dateModified: '2016-04-27T14:57:45.829Z'
 title: ''
 author:
   - name: ''
@@ -21,13 +20,14 @@ publisher:
   url: null
   favicon: null
 starred: true
-_type: MediaObject
+url: wabi-sabi/index.html
+_type: WebPage
 
 ---
 **Liz is inspired by the Japanese aesthetic sensibility of Wabi Sabi**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3449c0c6b43264cc14c33795d1d1668631765bf5.jpg)
 
-Liz is inspired by the Japanese aesthetic sensibility of Wabi Sabi, finding beauty in imperfections, rustic simplicity and irregularity. Her jewellery celebrates subtle processes like weathering and ageing which give her pieces a simplicity and 'rawness,' allowing the surface textures, form and tones to make an elegant statement. 
+Finding beauty in imperfections, rustic simplicity and irregularity. Her jewellery celebrates subtle processes like weathering and ageing which give her pieces a simplicity and 'rawness,' allowing the surface textures, form and tones to make an elegant statement. 
 
 Living and working in the Pennines, Liz is surrounded by rivers and canals, rocky steep sided valleys and open moorland. It is these natural textures, subtle tones and rugged lines which emerge within her work. Liz constantly gathers or photographs natural textures and colours that appeal to her ranging from stones, bits of bark, abandoned birds nest and rusty metal. By exploring these found objects, she incorporates their essence into her making process. Her fascination of symbolism, for example a golden bowl, is used a lot in her jewellery, often taking a simple shape or symbol and using it repeatedly over a long period. 
 
