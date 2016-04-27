@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://folksy.com/shops/LizHutchinson'
 inLanguage: null
 keywords: []
 description: 'Liz is inspired by the Japanese aesthetic sensibility of Wabi Sabi, finding beauty in imperfections, rustic simplicity and irregularity. Her jewellery celebrates subtle processes like weathering and ageing which give her pieces a simplicity and ‘rawness,’ allowing the surface textures, form and tones to make an elegant statement. '
-datePublished: '2016-04-27T10:47:10.112Z'
-dateModified: '2016-04-27T10:45:58.071Z'
+datePublished: '2016-04-27T10:50:23.243Z'
+dateModified: '2016-04-27T10:47:16.197Z'
 title: ''
 author:
   - name: ''
