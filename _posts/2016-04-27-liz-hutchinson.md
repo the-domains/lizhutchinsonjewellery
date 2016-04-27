@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Minimal Contemporary Jewellery, Handmade in Hebden Bridge'
-datePublished: '2016-04-27T15:28:20.169Z'
-dateModified: '2016-04-27T15:14:53.053Z'
-title: Liz Hutchinson
+datePublished: '2016-04-27T15:29:50.455Z'
+dateModified: '2016-04-27T15:29:32.343Z'
+title: SHOP
 author: []
 sourcePath: _posts/2016-04-27-liz-hutchinson.md
 published: true
@@ -22,7 +22,7 @@ url: liz-hutchinson/index.html
 _type: WebPage
 
 ---
-# Liz Hutchinson
+# SHOP
 
 **[Minimal Contemporary Jewellery, Handmade in Hebden Bridge][0]**
 
