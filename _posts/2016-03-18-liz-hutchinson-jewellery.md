@@ -5,20 +5,15 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Finding beauty in imperfections, rustic simplicity and irregularity. Her jewellery celebrates subtle processes like weathering and ageing which give her pieces a simplicity and ‘rawness,’ allowing the surface textures, form and tones to make an elegant statement. '
-datePublished: '2016-04-27T15:28:46.023Z'
-dateModified: '2016-04-27T15:28:45.459Z'
+datePublished: '2016-05-24T17:50:23.321Z'
+dateModified: '2016-05-24T17:41:49.261Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-03-18-liz-hutchinson-jewellery.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: true
 url: wabi-sabi/index.html
 _type: WebPage
