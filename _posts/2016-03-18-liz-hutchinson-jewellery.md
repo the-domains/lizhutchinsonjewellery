@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Finding beauty in imperfections, rustic simplicity and irregularity. Her jewellery celebrates subtle processes like weathering and ageing which give her pieces a simplicity and ‘rawness,’ allowing the surface textures, form and tones to make an elegant statement. '
-datePublished: '2016-05-24T17:52:04.854Z'
-dateModified: '2016-05-24T17:51:16.499Z'
+datePublished: '2016-05-24T17:56:40.679Z'
+dateModified: '2016-05-24T17:56:27.818Z'
 title: ''
 author:
   - name: ''
@@ -20,7 +20,7 @@ _type: WebPage
 
 ---
 **Liz is inspired by the Japanese aesthetic sensibility of Wabi Sabi**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3449c0c6b43264cc14c33795d1d1668631765bf5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/88236f5550dc7030cc3c7ea758a96e9dcae35bf7.jpg)
 
 Finding beauty in imperfections, rustic simplicity and irregularity. Her jewellery celebrates subtle processes like weathering and ageing which give her pieces a simplicity and 'rawness,' allowing the surface textures, form and tones to make an elegant statement. 
 
