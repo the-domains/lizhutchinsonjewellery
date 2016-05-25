@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Finding beauty in imperfections, rustic simplicity and irregularity. Her jewellery celebrates subtle processes like weathering and ageing which give her pieces a simplicity and ‘rawness,’ allowing the surface textures, form and tones to make an elegant statement. '
-datePublished: '2016-05-24T17:56:40.679Z'
-dateModified: '2016-05-24T17:56:27.818Z'
+datePublished: '2016-05-25T07:53:56.165Z'
+dateModified: '2016-05-25T07:53:55.506Z'
 title: ''
 author:
   - name: ''
